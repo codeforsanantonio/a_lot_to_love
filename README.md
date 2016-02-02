@@ -1,1 +1,7 @@
-# alottolove.github.io
+# A Lot to Love
+
+## Getting started
+
+## How To Contribute
+
+## License
